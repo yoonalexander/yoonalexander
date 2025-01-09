@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub!
+Hi there, I'm Alex Yoon 🌟
+### 🚀 Software Engineering Student | AI/ML Enthusiast
 
 <!--
 **yoonalexander/yoonalexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+- 🎓 Currently in my **3rd year** studying **Software Engineering** at **McMaster University**
+- 💼 Working as an **Application Developer Intern @ CIBC**, exploring the world of **data and development**
+- 🤖 Passionate about **AI/ML Engineering and Development**
+- 🌱 Actively learning and building **ML Models** to solve real-world challenges
+- 🏐 Outside the code, you’ll find me on the court smashing spikes in **volleyball**
+
+## Languages, Frameworks, and Tools
+🚀 Languages:
+- Python | Java | JavaScript | SQL
+
+🔧 Frameworks & Libraries:
+- React | HTML/CSS
+
+☁️ Cloud & Tools:
+- AWS | Azure
+- SOATest | Virtualize
+
+💻 Always curious about emerging tech!
+
+## 📈 Let’s Build Something Awesome Together
+Feel free to check out my projects and connect with me! Let’s turn ideas into reality. 😊
