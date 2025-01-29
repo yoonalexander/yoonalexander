@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About Me
 - 🎓 Currently in my **3rd year** studying **Software Engineering** at **McMaster University**
-- 💼 Working as an **Application Developer Intern @ CIBC**, exploring the world of **data and development**
+- 💼 Working as an **Software/Application Developer Intern @ CIBC**, exploring the world of **data and development**
 - 🤖 Passionate about **AI/ML Engineering and Development**
 - 🌱 Actively learning and building **ML Models** to solve real-world challenges
 - 🏐 Outside the code, you’ll find me on the court smashing spikes in **volleyball**
