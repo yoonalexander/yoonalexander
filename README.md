@@ -11,15 +11,18 @@ Hi there, I'm Alex Yoon 🌟
 - 🏐 Outside the code, you’ll find me on the court smashing spikes in **volleyball**
 
 ## Languages, Frameworks, and Tools
-🚀 Languages:
-- Python | Java | JavaScript | SQL | Kotlin
 
-🔧 Frameworks & Libraries:
-- React | HTML/CSS
+🚀 **Languages**  
+- Python | Java | Kotlin | C | C++ | C# | JavaScript | SQL | Bash | MATLAB | HTML/CSS  
 
-☁️ Cloud & Tools:
-- AWS | Azure
-- SOATest | Virtualize
+🔧 **Frameworks & Libraries**  
+- React | Node.js | Express.js | Android SDK | Firebase | TailwindCSS | NumPy | Pandas | Scikit-learn | Matplotlib  
+
+☁️ **Cloud & Platforms**  
+- AWS (S3, Lambda, EC2) | Microsoft Azure (Databricks, Data Factory, Workspace) | Git/GitHub | Docker  
+
+🛠 **Tools & Technologies**  
+- SOATest | Parasoft Virtualize | Agile (Scrum/Kanban) | Linux/Unix | YAML | Software Testing & Design | Large System Design  
 
 💻 Always curious about emerging tech!
 
