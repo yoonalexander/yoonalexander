@@ -5,7 +5,7 @@ Hi there, I'm Alex Yoon 🌟
 ## About Me
 - 🎓 Currently going into my **4th year** studying **Software Engineering** at **McMaster University**
 - 💼 Worked @ **Amazon as an SDE Intern**, exploring the world of **Android Development**
-- 💼 Also worked @ **CIBC as a Software/Application Developer Co-op** 
+- 💼 Also worked @ **CIBC as a Machine Learning Engineer Co-op** 
 - 🤖 Passionate about **AI/ML Engineering and Development**
 - 🌱 Actively learning and building **ML Models** to solve real-world challenges
 - 🏐 Outside the code, you’ll find me on the court smashing spikes in **volleyball**
