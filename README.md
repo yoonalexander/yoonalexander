@@ -1,30 +1,28 @@
 # 👋 Welcome to My GitHub!
-Hi there, I'm Alex Yoon 🌟
-### 🚀 Software Engineering Student
+Hi there, I'm Alex Yoon 🌟  
+### 🚀 Software Engineering Graduate
 
 ## About Me
-- 🎓 Currently going into my **4th year** studying **Software Engineering** at **McMaster University**
-- 💼 Worked @ **Amazon as an SDE Intern**, exploring the world of **Android Development**
-- 💼 Also worked @ **CIBC as a Software Engineer Co-op** working with big data and AI/ML 
-- 🤖 Passionate about **AI/ML Engineering and Development**
-- 🌱 Actively learning and building **ML Models** to solve real-world challenges
-- 🏐 Outside the code, you’ll find me on the court smashing spikes in **volleyball**
+- 🎓 Recently graduated with a **Bachelor of Software Engineering** from **McMaster University**
+- 💼 Former **Software Development Engineer Intern @ Amazon** (Android, production systems)
+- 💼 Former **Software Engineer Intern @ CIBC** (data pipelines, AI/ML workflows)
+- 🤖 Passionate about building **AI-driven systems, backend services, and scalable applications**
+- 🌱 Continuously learning and developing projects in **machine learning and system design**
+- 🏐 Outside of coding, I enjoy playing **volleyball**
 
 ## Languages, Frameworks, and Tools
 
 🚀 **Languages**  
-- Python | Java | Kotlin | C | C++ | C# | JavaScript | SQL | Bash | MATLAB | HTML/CSS  
+- Python | Java | Kotlin | C++ | SQL | JavaScript  
 
 🔧 **Frameworks & Libraries**  
-- React | Node.js | Express.js | Android SDK | Firebase | TailwindCSS | NumPy | Pandas | Scikit-learn | Matplotlib  
+- React | Node.js | Android SDK | FastAPI | NumPy | Pandas | Scikit-learn  
 
 ☁️ **Cloud & Platforms**  
-- AWS (S3, Lambda, EC2) | Microsoft Azure (Databricks, Data Factory, Workspace) | Git/GitHub | Docker  
+- AWS | Microsoft Azure (Databricks, Data Factory) | Docker | Git/GitHub  
 
 🛠 **Tools & Technologies**  
-- SOATest | Parasoft Virtualize | Agile (Scrum/Kanban) | Linux/Unix | YAML | Software Testing & Design | Large System Design  
-
-💻 Always curious about emerging tech!
+- Agile (Scrum/Kanban) | Linux/Unix | CI/CD | System Design  
 
 ## 📈 Let’s Build Something Awesome Together
-Feel free to check out my projects and connect with me! Let’s turn ideas into reality. 😊
+Feel free to explore my projects and connect — always open to collaborating on impactful ideas.
