@@ -32,7 +32,7 @@ I'm a recent Software Engineering graduate from McMaster University with experie
 **Developer Tools** 
 - Git | GitHub | Bitbucket | Docker | Vercel | Render | CI/CD | Postman | Android Studio | JIRA | SOAtest
 
-## 📈 Let’s Build Something Awesome Together
+## Let’s Build Something Awesome Together
 - 🌐 Portfolio: alexyoon.com
 - 💼 LinkedIn: linkedin.com/in/yoonalex
 - 🧑‍💻 GitHub: github.com/yoonalexander
