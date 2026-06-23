@@ -4,13 +4,6 @@ Hi there, I'm Alex Yoon 🌟
 I'm a recent Software Engineering graduate from McMaster University with experience building production systems, data pipelines, Android features, and AI-powered applications. I enjoy turning real-world problems into practical software, especially across backend services, machine learning workflows, and scalable full-stack products.
 
 ## About Me
-- 🎓 Recently graduated with a **Bachelor of Software Engineering** from **McMaster University**
-- 💼 Former **Software Development Engineer Intern @ Amazon** (Android, production systems)
-- 💼 Former **Software Engineer Intern @ CIBC** (data pipelines, AI/ML workflows)
-- 🤖 Passionate about building **AI-driven systems, backend services, and scalable applications**
-- 🌱 Continuously learning and developing projects in **machine learning and system design**
-- 🏐 Outside of coding, I enjoy playing **volleyball**
-
 - 🎓 Graduated with a **Bachelor of Software Engineering** from **McMaster University**
 - 💼 Former **Software Development Engineer Intern @ Amazon**, where I worked on Android production systems for Amazon Photos
 - 💼 Former **Software Engineer Intern @ CIBC**, where I built data pipelines, automation tools, and reporting workflows
