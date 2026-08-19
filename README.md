@@ -1,40 +1,19 @@
-# 👋 Welcome to My GitHub!
-Hi there, I'm Alex Yoon 🌟  
-### 🚀 Software Engineering Graduate | AI, Backend, Android, and Cloud Systems
-I'm a recent Software Engineering graduate from McMaster University with experience building production systems, data pipelines, Android features, and AI-powered applications. I enjoy turning real-world problems into practical software, especially across backend services, machine learning workflows, and scalable full-stack products.
+# Hey, I'm **Alex Yoon** 👋
 
-## About Me
-- 🎓 Graduated with a **Bachelor of Software Engineering** from **McMaster University**
-- 💼 Former **Software Development Engineer Intern @ Amazon**, where I worked on Android production systems for Amazon Photos
-- 💼 Former **Software Engineer Intern @ CIBC**, where I built data pipelines, automation tools, and reporting workflows
-- 🤖 Interested in **AI-driven applications, backend systems, mobile development, and cloud infrastructure**
-- 🛠️ Experienced with projects involving **RAG, ML prediction systems, REST APIs, data engineering, and mobile apps**
-- 🌱 Currently improving my skills in **system design, distributed systems, machine learning, and production engineering**
-- 🏐 Outside of coding, I enjoy playing volleyball
+I'm currently:
 
-## Languages, Frameworks, and Tools
+* 💻 Building **CraveAI**, an AI-powered restaurant discovery and recommendation app
+* 🎓 A **Software Engineering graduate** from **McMaster University**
+* 🌱 Learning more about **system design, distributed systems, and machine learning**
 
-**Languages**  
-- Python | Java | Kotlin | SQL | C | C++ | JavaScript | TypeScript | HTML/CSS
+Previously:
 
-**Frontend and Mobile**  
-- React | React Native | Android | WorkManager | Tailwind | Vite
+* 🛠️ **Software Development Engineer Intern** @ **Amazon**, working on Android systems for Amazon Photos
+* 🚀 **Application Developer Co-op** @ **CIBC**, building data pipelines and backend automation
+* 🤖 Built **Pocket AI**, a voice-powered AI assistant for dairy farm management
 
-**Backend and APIs**  
-- FastAPI | Flask | Node.js | REST APIs | Authentication | Background Processing
+Mostly interested in **AI, backend systems, developer tools, and building products people actually use**.
 
-**Cloud and Data**  
-- AWS | Azure | Azure Data Factory | Azure Databricks | ETL | PySpark | Salesforce | MongoDB | SQLite
+🌐 [alexyoon.com](https://alexyoon.com) · 💼 [LinkedIn](https://linkedin.com/in/yoonalex)
 
-**ML and AI** 
-- scikit-learn | Pandas | NumPy | Regression Models | RAG | Embeddings | Vector Search | LangChain | ChromaDB | OpenAI API
-
-**Developer Tools** 
-- Git | GitHub | Bitbucket | Docker | Vercel | Render | CI/CD | Postman | Android Studio | JIRA | SOAtest
-
-## Let’s Build Something Awesome Together
-- 🌐 Portfolio: alexyoon.com
-- 💼 LinkedIn: linkedin.com/in/yoonalex
-- 🧑‍💻 GitHub: github.com/yoonalexander
-
-Thanks for visiting my GitHub!
+Feel free to look around :)
