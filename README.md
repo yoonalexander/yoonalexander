@@ -1,19 +1,19 @@
-# Hey, I'm **Alex Yoon** 👋
+# hey, i'm **alex yoon** ☾
 
-I'm currently:
+about me:
 
-* 💻 Building **CraveAI**, an AI-powered restaurant discovery and recommendation app
-* 🎓 A **Software Engineering graduate** from **McMaster University**
-* 🌱 Learning more about **system design, distributed systems, and machine learning**
+* building [craveai](https://craveai.alexyoon.com/), an ai-powered restaurant discovery and recommendation app
+* a software engineering graduate from mcmaster university
+* putting my foot into kaggle machine learning competitions
 
-Previously:
+prev:
 
-* 🛠️ **Software Development Engineer Intern** @ **Amazon**, working on Android systems for Amazon Photos
-* 🚀 **Application Developer Co-op** @ **CIBC**, building data pipelines and backend automation
-* 🤖 Built **Pocket AI**, a voice-powered AI assistant for dairy farm management
+* software development engineer intern @ [amazon](https://www.amazon.ca/b?ie=UTF8&node=16055944011), working on android systems for Amazon Photos
+* software engineer co-op @ [cibc](https://www.cibc.com/), building data pipelines and backend automation
+* pocket ai, our capstone project: a voice-powered ai assistant for [cattleytics](https://www.cattleytics.com/)
 
-Mostly interested in **AI, backend systems, developer tools, and building products people actually use**.
+when i'm not in codex, you'll find me playing volleyball, finding grails at the thrift, playing tft on the treadmill at the gym, reading the bible or making parry.
 
 🌐 [alexyoon.com](https://alexyoon.com) · 💼 [LinkedIn](https://linkedin.com/in/yoonalex)
 
-Feel free to look around :)
+feel free to look around :)
