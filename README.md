@@ -14,4 +14,4 @@ prev:
 
 when i'm not in codex, you'll find me playing volleyball, finding grails at the thrift, playing tft on the treadmill at the gym, reading the bible or making parry
 
-feel free to look around! check out my website [alexyoon.com](https://alexyoon.com) or [get in touch](https://linkedin.com/in/yoonalex)
+feel free to look around! check out my website [alexyoon.com](https://alexyoon.com) or [get in touch](https://linkedin.com/in/yoonalex) 🤠
