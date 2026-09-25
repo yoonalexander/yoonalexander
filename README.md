@@ -8,7 +8,7 @@ about me:
 
 prev:
 
-* software development engineer intern @ amazon, working on android systems for Amazon Photos
+* software development engineer intern @ amazon, working on android systems for amazon photos
 * software engineer co-op @ cibc, building data pipelines and backend automation
 * pocket ai, our capstone project: a voice-powered ai assistant for cattleytics
 
